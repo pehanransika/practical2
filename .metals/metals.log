@@ -1,0 +1,1188 @@
+2024.06.24 16:18:23 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\pehan\AppData\Local\Temp\practical2' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@c8cbb6b]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@fd5574c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@c8cbb6b]
+2024.06.24 16:18:24 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.24 16:18:24 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:18:25 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:18:30 INFO  running 'C:\Users\pehan\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\pehan\AppData\Local\Temp\metals12858815724193119925\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.06.24 16:18:33 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:18:34 ERROR [info] [launcher] getting org.scala-sbt sbt 1.9.9  (this may take some time)...
+2024.06.24 16:18:35 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:18:39 WARN  no build target for: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala
+2024.06.24 16:18:39 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:18:39 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:18:40 WARN  no build target for: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala
+2024.06.24 16:18:40 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:18:43 WARN  no build target for: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala
+2024.06.24 16:18:43 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:18:43 WARN  no build target for: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala
+2024.06.24 16:18:44 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:18:46 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:19:05 ERROR [info] [launcher] getting Scala 2.12.18 (for sbt)...
+2024.06.24 16:19:38 INFO  [info] welcome to sbt 1.9.9 (Eclipse Adoptium Java 17)
+2024.06.24 16:19:40 INFO  [info] loading settings for project practical2-build-build from metals.sbt ...
+2024.06.24 16:19:40 INFO  [info] loading project definition from C:\Users\pehan\AppData\Local\Temp\practical2\project\project
+2024.06.24 16:19:41 WARN  no build target for: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala
+2024.06.24 16:19:41 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:19:47 INFO  [info] loading settings for project practical2-build from metals.sbt ...
+2024.06.24 16:19:47 INFO  [info] loading project definition from C:\Users\pehan\AppData\Local\Temp\practical2\project
+2024.06.24 16:19:49 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:19:49 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:19:49 WARN  Could not find semantic tokens for: file:///C:/Users/pehan/AppData/Local/Temp/practical2/build.sbt
+2024.06.24 16:19:51 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:19:51 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:19:51 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 16:20:06 INFO  [success] Generated .bloop\practical2-build.json
+2024.06.24 16:20:06 INFO  [success] Total time: 19 s, completed 24 Jun 2024, 16:20:06
+2024.06.24 16:20:10 INFO  [info] loading settings for project practical2 from build.sbt ...
+2024.06.24 16:20:10 INFO  [info] set current project to hello-world (in build file:/C:/Users/pehan/AppData/Local/Temp/practical2/)
+2024.06.24 16:20:21 INFO  [success] Generated .bloop\practical2-test.json
+2024.06.24 16:20:21 INFO  [success] Generated .bloop\practical2.json
+2024.06.24 16:20:21 INFO  [success] Total time: 9 s, completed 24 Jun 2024, 16:20:21
+2024.06.24 16:20:21 INFO  time: ran 'sbt bloopInstall' in 1m50s
+2024.06.24 16:20:21 INFO  Attempting to connect to the build server...
+2024.06.24 16:20:21 INFO  Setting up current java home C:\Users\pehan\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin17-binaries\releases\download\jdk-17%252B35\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\jdk-17+35 in C:\Users\pehan\.bloop\bloop.json
+2024.06.24 16:20:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 16:20:41 INFO  Attempting to connect to the build server...
+2024.06.24 16:20:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\project\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 16:20:50 INFO  time: Connected to build server in 29s
+2024.06.24 16:20:50 INFO  Connected to Build server: Bloop v1.5.18
+2024.06.24 16:20:51 INFO  time: Imported build in 0.14s
+Jun 24, 2024 4:21:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$.<clinit>(DebugProvider.scala:1040)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$1.applyOrElse(DebugProvider.scala:811)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$1.applyOrElse(DebugProvider.scala:806)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.util.Success.foreach(Try.scala:268)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:481)
+	... 3 more
+
+2024.06.24 16:21:16 INFO  time: indexed workspace in 25s
+2024.06.24 16:21:17 INFO  compiling practical2 (1 scala source)
+Jun 24, 2024 4:21:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$.<clinit>(DebugProvider.scala:1040)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$1.applyOrElse(DebugProvider.scala:811)
+	at scala.meta.internal.metals.debug.DebugProvider$$anonfun$1.applyOrElse(DebugProvider.scala:806)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.util.Success.foreach(Try.scala:268)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:481)
+	... 3 more
+
+2024.06.24 16:21:27 INFO  time: compiled practical2 in 9.47s
+2024.06.24 16:21:28 INFO  time: code lens generation in 1.38s
+2024.06.24 16:25:18 INFO  compiling practical2 (1 scala source)
+2024.06.24 16:25:20 INFO  time: compiled practical2 in 1.14s
+2024.06.24 16:25:42 INFO  compiling practical2 (1 scala source)
+2024.06.24 16:25:42 INFO  time: compiled practical2 in 0.41s
+2024.06.24 16:25:51 INFO  compiling practical2 (1 scala source)
+2024.06.24 16:25:51 INFO  time: compiled practical2 in 0.36s
+2024.06.24 16:26:01 INFO  compiling practical2 (1 scala source)
+2024.06.24 16:26:01 INFO  time: compiled practical2 in 0.38s
+2024.06.24 16:26:51 ERROR Failed to tokenize input for semantic tokens for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question02.scala
+scala.meta.tokenizers.TokenizeException: <input>:8: error: illegal character '\u2013'
+c) println (–2 * ( g – k ) +c);
+            ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchOther$1(LegacyScanner.scala:439)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:443)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.24 16:35:58 INFO  compiling practical2 (1 scala source)
+2024.06.24 16:35:58 INFO  time: compiled practical2 in 0.83s
+Jun 24, 2024 4:37:03 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:279)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:290)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:205)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:205)
+	at scala.collection.immutable.Set$Set3.foreach(Set.scala:261)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:205)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:178)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:159)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:159)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:279)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:295)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:274)
+	at scala.meta.internal.pc.HoverProvider.hoverOffset(HoverProvider.scala:109)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:27)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:370)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:142)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Jun 24, 2024 4:37:03 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala
+java.nio.file.NoSuchFileException: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\Main.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:43)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:21)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:410)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:279)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:290)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:301)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:205)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:205)
+	at scala.collection.immutable.Set$Set3.foreach(Set.scala:261)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:205)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:178)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:159)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:159)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:279)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:295)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:274)
+	at scala.meta.internal.pc.HoverProvider.hoverOffset(HoverProvider.scala:109)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:27)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:370)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:142)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.06.24 16:53:18 INFO  compiling practical2 (4 scala sources)
+2024.06.24 16:53:18 INFO  time: compiled practical2 in 0.13s
+Jun 24, 2024 4:53:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 416
+2024.06.24 16:53:21 INFO  compiling practical2 (4 scala sources)
+2024.06.24 16:53:21 INFO  time: compiled practical2 in 70ms
+2024.06.24 16:53:25 INFO  compiling practical2 (4 scala sources)
+2024.06.24 16:53:25 INFO  time: compiled practical2 in 65ms
+Jun 24, 2024 4:53:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 459
+Jun 24, 2024 4:53:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$.<clinit>(DebugProvider.scala:1032)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:587)
+	at scala.meta.internal.metals.debug.DebugProvider.runCommandDiscovery(DebugProvider.scala:523)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1526)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:796)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	... 9 more
+
+Jun 24, 2024 4:53:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$.<clinit>(DebugProvider.scala:1032)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:587)
+	at scala.meta.internal.metals.debug.DebugProvider.runCommandDiscovery(DebugProvider.scala:523)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1526)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:796)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	... 9 more
+
+2024.06.24 16:54:10 INFO  compiling practical2 (4 scala sources)
+2024.06.24 16:54:10 INFO  time: compiled practical2 in 91ms
+Jun 24, 2024 4:54:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$: Cannot run class, since the workspace has errors.
+	at scala.meta.internal.metals.debug.DebugProvider$WorkspaceErrorsException$.<clinit>(DebugProvider.scala:1032)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:587)
+	at scala.meta.internal.metals.debug.DebugProvider.runCommandDiscovery(DebugProvider.scala:523)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1526)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:796)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	... 9 more
+
+2024.06.24 16:54:31 INFO  file:///C:/Users/pehan/AppData/Local/Temp/practical2/src/main/scala/question02.scala:1:8: stale bloop error: Main is already defined as object Main
+object Main extends App {
+       ^^^^
+2024.06.24 16:54:32 INFO  compiling practical2 (4 scala sources)
+2024.06.24 16:54:33 INFO  time: compiled practical2 in 1.05s
+2024.06.24 16:56:09 INFO  compiling practical2 (1 scala source)
+2024.06.24 16:56:12 INFO  time: compiled practical2 in 2.29s
+Jun 24, 2024 5:23:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 550
+2024.06.24 17:26:30 INFO  compiling practical2 (1 scala source)
+2024.06.24 17:26:32 INFO  time: compiled practical2 in 1.38s
+2024.06.24 17:26:32 INFO  compiling practical2 (1 scala source)
+2024.06.24 17:26:32 WARN  Could not load snapshot text for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question03.scala
+2024.06.24 17:26:32 INFO  time: compiled practical2 in 0.39s
+Jun 24, 2024 5:26:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 624
+2024.06.24 17:28:46 INFO  compiling practical2 (1 scala source)
+2024.06.24 17:28:48 INFO  time: compiled practical2 in 1.89s
+2024.06.24 17:29:08 INFO  compiling practical2 (1 scala source)
+2024.06.24 17:29:08 INFO  time: compiled practical2 in 0.63s
+2024.06.24 17:33:23 INFO  compiling practical2 (1 scala source)
+2024.06.24 17:33:23 INFO  time: compiled practical2 in 0.13s
+2024.06.24 17:37:15 INFO  compiling practical2 (1 scala source)
+2024.06.24 17:37:15 INFO  time: compiled practical2 in 0.72s
+2024.06.24 17:57:20 INFO  compiling practical2 (1 scala source)
+2024.06.24 17:57:20 INFO  time: compiled practical2 in 0.71s
+2024.06.24 17:57:27 INFO  Shutting down server
+2024.06.24 17:57:27 INFO  shutting down Metals
+2024.06.24 17:57:27 INFO  Shut down connection with build server.
+2024.06.24 17:57:27 INFO  Shut down connection with build server.
+2024.06.24 17:57:27 INFO  Exiting server
+2024.06.24 21:44:29 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\pehan\AppData\Local\Temp\practical2' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5d9394d3]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7c7254c8]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5d9394d3]
+2024.06.24 21:44:29 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.24 21:44:30 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question02.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 21:44:31 INFO  Attempting to connect to the build server...
+2024.06.24 21:44:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:44:32 INFO  Attempting to connect to the build server...
+2024.06.24 21:44:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\project\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 21:44:32 INFO  time: Connected to build server in 1.41s
+2024.06.24 21:44:32 INFO  Connected to Build server: Bloop v1.5.18
+2024.06.24 21:44:32 INFO  time: Imported build in 0.41s
+2024.06.24 21:44:53 INFO  time: indexed workspace in 20s
+Jun 24, 2024 9:52:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 364
+2024.06.24 21:55:31 ERROR Failed to tokenize input for semantic tokens for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question02.scala
+scala.meta.tokenizers.TokenizeException: <input>:27: error: Not one of: `$$', `$'ident, `$'this, `$'BlockExpr, `$'_
+    println(s"Expression e: $")
+              ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:598)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:347)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:363)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:30)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.06.24 21:55:46 INFO  compiling practical2 (1 scala source)
+2024.06.24 21:55:46 INFO  time: compiled practical2 in 0.4s
+Jun 24, 2024 9:55:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 634
+2024.06.24 21:57:04 INFO  compiling practical2 (1 scala source)
+2024.06.24 21:57:04 INFO  time: compiled practical2 in 0.14s
+2024.06.24 21:58:14 INFO  compiling practical2 (1 scala source)
+2024.06.24 21:58:14 INFO  time: compiled practical2 in 0.79s
+Jun 24, 2024 9:58:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 985
+2024.06.24 21:58:23 INFO  compiling practical2 (1 scala source)
+2024.06.24 21:58:23 INFO  time: compiled practical2 in 0.99s
+2024.06.24 21:58:53 INFO  compiling practical2 (1 scala source)
+2024.06.24 21:58:53 INFO  time: compiled practical2 in 0.12s
+2024.06.24 21:59:05 INFO  compiling practical2 (1 scala source)
+2024.06.24 21:59:05 INFO  time: compiled practical2 in 0.57s
+2024.06.24 22:06:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 22:06:36 INFO  Connected to Build server: Bloop v1.5.18
+2024.06.24 22:06:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\project\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 22:08:48 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:08:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:08:52 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:08:53 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:08:54 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:08:55 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:08:59 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:08:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pehan\AppData\Local\Temp\practical2\.metals\.reports\metals-full\2024-06-24\r_compiler-error_(practical2)_22-08-59-946.md
+2024.06.24 22:08:59 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:07 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:12 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:18 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:21 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:21 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:22 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:26 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:27 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:27 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:28 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:28 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:30 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:32 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:34 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:35 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:41 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:42 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:46 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:47 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:48 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:52 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:52 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:52 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:53 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:54 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:55 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:09:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1409
+2024.06.24 22:09:55 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:55 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:57 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:57 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:09:58 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:00 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:00 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:03 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:04 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:05 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:06 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:05 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:10 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:10 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:12 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:14 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:14 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:14 WARN  Using indexes to guess the definition of resultB
+2024.06.24 22:10:14 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:14 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:15 WARN  Using indexes to guess the definition of resultA
+2024.06.24 22:10:15 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:17 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:19 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:21 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:26 WARN  Using indexes to guess the definition of resultA
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:26 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:26 WARN  Using indexes to guess the definition of j
+2024.06.24 22:10:29 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:31 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:10:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1615
+2024.06.24 22:10:33 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:33 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:33 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:33 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:34 WARN  Using indexes to guess the definition of resultA
+2024.06.24 22:10:33 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:33 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:33 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:33 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:34 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:38 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:39 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:10:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1654
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Using indexes to guess the definition of resultF
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Using indexes to guess the definition of resultE
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Using indexes to guess the definition of calculateResultD
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:46 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:46 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:47 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:51 WARN  Using indexes to guess the definition of calculateResultE
+2024.06.24 22:10:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:51 WARN  Using indexes to guess the definition of calculateResultD
+2024.06.24 22:10:55 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:10:58 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:02 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:02 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:03 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:03 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:04 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:06 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:12 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:13 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:16 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:16 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:19 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:21 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:21 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:23 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:26 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:28 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:54 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:11:56 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:09 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:09 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:20 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:29 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:30 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:30 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:31 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:34 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:35 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:36 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:38 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:39 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:41 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:42 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:43 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:45 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:46 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:55 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:55 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:57 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:12:58 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:01 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:03 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:05 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:09 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:10 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:12 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:13 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:19 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:19 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:20 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:23 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:24 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:24 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:26 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:27 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:27 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:28 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:31 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:13:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2204
+2024.06.24 22:13:34 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:13:36 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:13:37 INFO  time: compiled practical2 in 1.06s
+2024.06.24 22:13:37 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:14:07 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:14:09 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:14:10 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:14:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:14:24 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:14:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$.<clinit>(DebugProvider.scala:1040)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$1(DebugProvider.scala:449)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:450)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:595)
+	at scala.meta.internal.metals.debug.DebugProvider.runCommandDiscovery(DebugProvider.scala:523)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1526)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:796)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	... 9 more
+
+2024.06.24 22:14:24 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:14:46 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:14:46 INFO  time: compiled practical2 in 0.55s
+2024.06.24 22:14:47 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:14:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2250
+2024.06.24 22:14:53 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:14:57 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:20:27 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:20:29 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:20:32 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:20:39 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:20:40 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:21:15 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:21:33 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:21:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:21:46 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:21:46 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:21:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:21:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:10 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:12 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:12 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:12 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:22:12 INFO  time: compiled practical2 in 0.65s
+2024.06.24 22:22:13 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:38 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:45 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:45 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:45 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:48 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:52 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:54 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:56 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:56 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:57 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:22:59 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:04 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:06 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:07 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:09 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:10 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:21 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:22 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:59 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:59 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:59 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:23:59 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:02 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:02 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:02 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:02 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:02 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:20 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:22 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:29 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:31 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:35 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:24:36 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:00 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:01 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:01 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:02 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:03 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:06 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:07 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:07 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:09 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:10 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:13 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:14 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:15 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:17 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:25:17 INFO  time: compiled practical2 in 0.11s
+2024.06.24 22:25:17 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:30 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:36 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:36 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:25:40 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:25:40 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:25:40 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2024.06.24 22:25:44 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:45 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:49 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:49 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:51 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:25:54 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:01 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:03 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:09 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:10 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:26:10 INFO  time: compiled practical2 in 96ms
+2024.06.24 22:26:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:15 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:15 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:26:16 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:26:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pehan\AppData\Local\Temp\practical2\.metals\.reports\metals-full\2024-06-24\r_compiler-error_(practical2)_22-26-16-123.md
+2024.06.24 22:26:23 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:23 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:25 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:26:25 INFO  time: compiled practical2 in 0.11s
+2024.06.24 22:26:25 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:26:34 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:26:34 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pehan\AppData\Local\Temp\practical2\.metals\.reports\metals-full\2024-06-24\r_compiler-error_(practical2)_22-26-34-818.md
+Jun 24, 2024 10:26:34 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:26:34 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pehan\AppData\Local\Temp\practical2\.metals\.reports\metals-full\2024-06-24\r_compiler-error_(practical2)_22-26-34-910.md
+Jun 24, 2024 10:26:35 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:26:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pehan\AppData\Local\Temp\practical2\.metals\.reports\metals-full\2024-06-24\r_compiler-error_(practical2)_22-26-35-345.md
+Jun 24, 2024 10:26:35 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:26:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pehan\AppData\Local\Temp\practical2\.metals\.reports\metals-full\2024-06-24\r_compiler-error_(practical2)_22-26-35-445.md
+2024.06.24 22:26:38 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:26:44 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:26:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pehan\AppData\Local\Temp\practical2\.metals\.reports\metals-full\2024-06-24\r_compiler-error_(practical2)_22-26-44-218.md
+Jun 24, 2024 10:26:44 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:26:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pehan\AppData\Local\Temp\practical2\.metals\.reports\metals-full\2024-06-24\r_compiler-error_(practical2)_22-26-44-576.md
+2024.06.24 22:26:46 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:26:46 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jun 24, 2024 10:26:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\pehan\AppData\Local\Temp\practical2\.metals\.reports\metals-full\2024-06-24\r_compiler-error_(practical2)_22-26-46-093.md
+2024.06.24 22:26:51 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:51 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:26:51 INFO  time: compiled practical2 in 98ms
+2024.06.24 22:26:51 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:54 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:26:54 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:26:54 INFO  time: compiled practical2 in 0.15s
+2024.06.24 22:26:54 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:03 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:03 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:04 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:06 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:10 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:11 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:13 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:14 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:17 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:27:17 INFO  time: compiled practical2 in 0.51s
+2024.06.24 22:27:18 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:35 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:38 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:38 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:39 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:41 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:49 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:52 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:27:52 INFO  time: compiled practical2 in 0.55s
+2024.06.24 22:27:53 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:27:56 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:27:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$.<clinit>(DebugProvider.scala:1040)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$1(DebugProvider.scala:449)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:450)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:595)
+	at scala.meta.internal.metals.debug.DebugProvider.runCommandDiscovery(DebugProvider.scala:523)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1526)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:796)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	... 9 more
+
+2024.06.24 22:27:56 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:01 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:28:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$.<clinit>(DebugProvider.scala:1040)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$1(DebugProvider.scala:449)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:450)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:595)
+	at scala.meta.internal.metals.debug.DebugProvider.runCommandDiscovery(DebugProvider.scala:523)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1526)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:796)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	... 9 more
+
+2024.06.24 22:28:01 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:07 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:09 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:08 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:12 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:26 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:28:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$.<clinit>(DebugProvider.scala:1040)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$1(DebugProvider.scala:449)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:450)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:595)
+	at scala.meta.internal.metals.debug.DebugProvider.runCommandDiscovery(DebugProvider.scala:523)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1526)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:796)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	... 9 more
+
+2024.06.24 22:28:30 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:34 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:35 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:36 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:38 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:43 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:43 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:47 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:28:47 INFO  time: compiled practical2 in 0.93s
+2024.06.24 22:28:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+Jun 24, 2024 10:28:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$.<clinit>(DebugProvider.scala:1040)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$1(DebugProvider.scala:449)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:450)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:595)
+	at scala.meta.internal.metals.debug.DebugProvider.runCommandDiscovery(DebugProvider.scala:523)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1526)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:796)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	... 9 more
+
+2024.06.24 22:28:50 WARN  Target root C:\Users\pehan\AppData\Local\Temp\practical2\.bloop\practical2\bloop-bsp-clients-classes\classes-Metals-slyWoRxeReuunToCIEQt1w== does not exist
+2024.06.24 22:28:52 INFO  Shutting down server
+2024.06.24 22:28:52 INFO  shutting down Metals
+2024.06.24 22:28:53 INFO  Shut down connection with build server.
+2024.06.24 22:28:53 INFO  Shut down connection with build server.
+Jun 24, 2024 10:28:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+INFO: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.nio.channels.ClosedChannelException
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.RequestRegistry.$anonfun$register$5(RequestRegistry.scala:78)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.RequestRegistry.$anonfun$register$4(RequestRegistry.scala:78)
+	at scala.meta.internal.metals.Cancelable$$anon$1.cancel(Cancelable.scala:18)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:94)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:450)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:182)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:174)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.nio.channels.ClosedChannelException
+	at java.base/sun.nio.ch.SocketChannelImpl.ensureOpenAndConnected(SocketChannelImpl.java:215)
+	at java.base/sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:527)
+	at java.base/sun.nio.ch.SinkChannelImpl.write(SinkChannelImpl.java:123)
+	at java.base/java.nio.channels.Channels.writeFullyImpl(Channels.java:74)
+	at java.base/java.nio.channels.Channels.writeFully(Channels.java:93)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:171)
+	at java.base/java.io.OutputStream.write(OutputStream.java:127)
+	at java.base/java.nio.channels.Channels$1.write(Channels.java:151)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:137)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:108)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2024.06.24 22:28:53 INFO  Failed to run request with params WorkspaceBuildTargetsResult
+2024.06.24 22:28:52 INFO  Exiting server
+2024.06.24 22:29:06 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\pehan\AppData\Local\Temp\practical2' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1d972aa3]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@6a5988dc]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1d972aa3]
+2024.06.24 22:29:06 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jun 24, 2024 10:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question02.scala
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question02.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:288)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question02.scala
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:589)
+	at scala.meta.internal.metals.debug.DebugProvider.runCommandDiscovery(DebugProvider.scala:523)
+	at scala.meta.internal.metals.MetalsLspService.discoverMainClasses(MetalsLspService.scala:1526)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:796)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	... 9 more
+
+2024.06.24 22:29:07 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question02.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 24, 2024 10:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Jun 24, 2024 10:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jun 24, 2024 10:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.06.24 22:29:07 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question03.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 22:29:07 INFO  Attempting to connect to the build server...
+2024.06.24 22:29:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 22:29:07 INFO  Attempting to connect to the build server...
+2024.06.24 22:29:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\project\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 22:29:07 INFO  time: Connected to build server in 0.39s
+2024.06.24 22:29:07 INFO  Connected to Build server: Bloop v1.5.18
+2024.06.24 22:29:12 INFO  time: indexed workspace in 3.47s
+2024.06.24 22:40:38 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:40:39 INFO  time: compiled practical2 in 1.08s
+Jun 24, 2024 10:45:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 314
+2024.06.24 22:45:11 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:45:11 INFO  time: compiled practical2 in 0.75s
+Jun 24, 2024 10:46:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 378
+2024.06.24 22:46:45 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:46:45 INFO  time: compiled practical2 in 0.71s
+2024.06.24 22:49:42 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:49:42 INFO  time: compiled practical2 in 0.86s
+2024.06.24 22:59:49 INFO  compiling practical2 (1 scala source)
+2024.06.24 22:59:49 INFO  time: compiled practical2 in 0.81s
+2024.06.24 23:00:15 INFO  compiling practical2 (1 scala source)
+2024.06.24 23:00:15 INFO  time: compiled practical2 in 0.58s
+2024.06.24 23:00:31 INFO  compiling practical2 (1 scala source)
+2024.06.24 23:00:31 INFO  time: compiled practical2 in 0.57s
+Jun 24, 2024 11:05:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 628
+Jun 24, 2024 11:05:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 667
+2024.06.24 23:05:50 INFO  compiling practical2 (1 scala source)
+2024.06.24 23:05:51 INFO  time: compiled practical2 in 1.02s
+2024.06.24 23:10:53 INFO  Shutting down server
+2024.06.24 23:10:53 INFO  shutting down Metals
+2024.06.24 23:10:53 INFO  Shut down connection with build server.
+2024.06.24 23:10:53 INFO  Shut down connection with build server.
+2024.06.24 23:10:53 INFO  Exiting server
+2024.06.24 23:11:06 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\pehan\AppData\Local\Temp\practical2' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7b350cca]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@af8eb51]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7b350cca]
+2024.06.24 23:11:06 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.24 23:11:07 INFO  no build target found for C:\Users\pehan\AppData\Local\Temp\practical2\src\main\scala\question01.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.24 23:11:07 INFO  Attempting to connect to the build server...
+2024.06.24 23:11:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 23:11:07 INFO  Attempting to connect to the build server...
+2024.06.24 23:11:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\pehan\AppData\Local\Temp\practical2\project\.metals\bsp.trace.json or C:\Users\pehan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.24 23:11:07 INFO  time: Connected to build server in 0.38s
+2024.06.24 23:11:07 INFO  Connected to Build server: Bloop v1.5.18
+2024.06.24 23:11:08 INFO  time: Imported build in 0.13s
+2024.06.24 23:11:12 INFO  time: indexed workspace in 3.77s
+2024.06.24 23:27:30 INFO  Shutting down server
+2024.06.24 23:27:30 INFO  shutting down Metals
+2024.06.24 23:27:30 INFO  Shut down connection with build server.
+2024.06.24 23:27:30 INFO  Shut down connection with build server.
+2024.06.24 23:27:30 INFO  Exiting server

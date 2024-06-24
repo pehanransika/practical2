@@ -2,28 +2,28 @@
     "version": "1.4.0",
     "project": {
         "name": "practical2-test",
-        "directory": "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2",
-        "workspaceDir": "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2",
+        "directory": "C:\\Users\\pehan\\Documents\\GitHub\\practical2",
+        "workspaceDir": "C:\\Users\\pehan\\Documents\\GitHub\\practical2",
         "sources": [
-            "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\src\\test\\scala",
-            "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\src\\test\\scala-2.13",
-            "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\src\\test\\scala-2",
-            "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\src\\test\\java",
-            "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\target\\scala-2.13\\src_managed\\test"
+            "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\src\\test\\scala",
+            "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\src\\test\\scala-2.13",
+            "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\src\\test\\scala-2",
+            "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\src\\test\\java",
+            "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\target\\scala-2.13\\src_managed\\test"
         ],
         "dependencies": [
             "practical2"
         ],
         "classpath": [
-            "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\.bloop\\practical2\\scala-2.13\\classes",
+            "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\.bloop\\practical2\\scala-2.13\\classes",
             "C:\\Users\\pehan\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar",
             "C:\\Users\\pehan\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\modules\\scala-parser-combinators_2.13\\2.3.0\\scala-parser-combinators_2.13-2.3.0.jar"
         ],
-        "out": "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\.bloop\\practical2",
-        "classesDir": "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\.bloop\\practical2\\scala-2.13\\test-classes",
+        "out": "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\.bloop\\practical2",
+        "classesDir": "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\.bloop\\practical2\\scala-2.13\\test-classes",
         "resources": [
-            "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\src\\test\\resources",
-            "C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2\\target\\scala-2.13\\resource_managed\\test"
+            "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\src\\test\\resources",
+            "C:\\Users\\pehan\\Documents\\GitHub\\practical2\\target\\scala-2.13\\resource_managed\\test"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -118,7 +118,7 @@
             "config": {
                 "home": "C:\\Users\\pehan\\AppData\\Local\\Coursier\\cache\\arc\\https\\github.com\\adoptium\\temurin17-binaries\\releases\\download\\jdk-17%252B35\\OpenJDK17-jdk_x64_windows_hotspot_17_35.zip\\jdk-17+35",
                 "options": [
-                    "-Duser.dir=C:\\Users\\pehan\\AppData\\Local\\Temp\\practical2"
+                    "-Duser.dir=C:\\Users\\pehan\\Documents\\GitHub\\practical2"
                 ]
             },
             "mainClass": [
